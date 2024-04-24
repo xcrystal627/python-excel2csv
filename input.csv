@@ -1,0 +1,427 @@
+No,階層,単語数,キーワード
+100,1,1,bike
+101,2,1,bike
+102,2,4,バイクパーツセンター bike parts center
+103,2,2,bike helmet
+104,2,2,electric bike
+105,2,4,bike helmet for men
+106,2,4,bike helmet for women
+107,2,2,road bike
+108,2,2,mountain bike
+109,2,2,bike light
+110,2,2,bike lock
+200,1,4,バイクパーツセンター bike parts center
+201,2,5,バイクパーツセンター bike parts center ヘルメット
+202,2,5,バイクパーツセンター bike parts center ミラー
+203,2,5,バイクパーツセンター bike parts center オイル
+204,2,5,バイクパーツセンター bike parts center カブ
+205,2,5,バイクパーツセンター bike parts center af35
+206,2,5,バイクパーツセンター bike parts center シート
+207,2,5,バイクパーツセンター bike parts center 原付バイク外装
+208,2,5,バイクパーツセンター bike parts center リアボックス
+209,2,5,バイクパーツセンター bike parts center アドレスv125
+300,1,2,bike helmet
+301,2,4,bike helmet for men
+302,2,4,bike helmet for women
+303,2,5,mountain bike helmet for men
+304,2,3,road bike helmet
+305,2,4,bike helmet for kids
+306,2,3,bike helmet adult
+307,2,6,bike helmet for men bluetooth connection
+308,2,5,bike helmet for women sale
+309,2,3,bike helmet light
+400,1,2,electric bike
+401,2,4,electric bike for adults
+402,2,3,electric bike motor
+403,2,3,electric bike battery
+404,2,6,electric bike for adults second hand
+405,2,4,electric bike conversion kit
+406,2,5,electric bike with child seat
+407,2,5,electric bike with baby seat
+408,2,3,electric bike used
+409,2,3,electric bike kit
+500,1,4,bike helmet for men
+501,2,5,mountain bike helmet for men
+502,2,6,bike helmet for men bluetooth connection
+503,2,5,bike helmet for men adult
+504,2,5,bike helmet for men standard
+505,2,5,bike helmet for men arai
+600,1,4,bike helmet for women
+601,2,5,bike helmet for women sale
+700,1,2,road bike
+701,2,3,road bike helmet
+702,2,3,road bike accessories
+703,2,3,road bike carbon
+704,2,5,road bike helmet for men
+705,2,3,road bike tire
+706,2,3,road bike stand
+707,2,3,road bike bag
+708,2,3,road bike giant
+709,2,3,road bike handlebar
+800,1,2,mountain bike
+801,2,4,mountain bike for men
+802,2,5,mountain bike helmet for men
+803,2,4,mountain bike 29 inch
+804,2,3,mountain bike accessories
+805,2,3,mountain bike helmet
+806,2,3,mountain bike giant
+807,2,3,mountain bike tire
+808,2,3,mountain bike handlebar
+809,2,4,mountain bike for women
+900,1,2,bike light
+901,2,3,bike light front
+902,2,3,bike light rechargeable
+903,2,3,bike light cateye
+904,2,3,bike light set
+905,2,3,bike light rear
+906,2,3,bike light holder
+907,2,3,bike light mount
+908,2,4,bike light front cateye
+909,2,3,bike light usb
+1000,1,2,bike lock
+1001,2,4,bike lock with key
+1002,2,3,bike lock combination
+1003,2,2,bike locker
+1004,2,3,bike lock chain
+1005,2,3,bike lock abus
+1006,2,3,bike lock holder
+1007,2,3,bike lock panasonic
+1008,2,3,bike lock wheel
+1009,2,3,bike lock cable
+1100,1,4,バイクパーツセンター bike parts center
+1200,1,2,bike helmet
+1300,1,4,bike helmet for men
+1400,1,4,bike helmet for women
+1500,1,4,mountain bike for men
+1600,1,2,bike light
+1700,1,2,bike lock
+1800,1,3,bike phone holder
+1900,1,2,bike stand
+2000,1,4,electric bike for adults
+2100,1,1,あbike
+2200,1,2,bike インナー
+2300,1,2,bike ウインカー
+2400,1,2,bike ウインドブレーカー
+2500,1,2,e-bike えんぐうえい電動自転車
+2600,1,2,えe bike
+2700,1,2,bike オイル
+2800,1,3,bike オフロード ミラー
+2900,1,2,bike カバー
+3000,1,2,bike キッズ
+3100,1,2,bike ケツ割れ
+3200,1,2,bike サポーター
+3300,1,2,bike 下着
+3400,1,2,bike ステッカー
+3500,1,2,bike スマホ
+3600,1,2,bike スパッツ
+3700,1,2,bike スウェットパンツ
+3800,1,2,bike スウェット
+3900,1,3,bike スウェット バスケ
+4000,1,2,bike スタンド
+4100,1,2,bike タイヤ
+4200,1,8,バイクパーツセンター bike parts center ヘルメット ハーフ コルク半 三つボタン
+4300,1,1,bikeしても抱きたい
+4400,1,2,bike トレーナー
+4500,1,8,air bike 電動アシスト自転車用バッテリー 20xリード型 中古品 現状品 通電確認のみ ジャンク
+4600,1,5,バイクパーツセンター bike parts center ビキニカウルのシールド
+4700,1,2,大人のbike camp
+4800,1,2,bike ハンドル
+4900,1,3,bike ハンドル アルミ
+5000,1,2,ビケ ハンマー
+5100,1,2,bike ヘルメット
+5200,1,3,bike ヘルメット シールド
+5300,1,3,bike ミラー ブルー
+5400,1,2,bike メンズ
+5500,1,1,bikeしても抱きたい
+5600,1,2,bike リアボックス
+5700,1,2,bike リュック
+5800,1,2,bike ケツ割れ
+5900,1,7,自転車 空気入れ580mm air bike フロアポンプ 米式 英式バルブ対応
+6000,1,2,bike ロック
+6100,1,2,e-bike えんぐうえい電動自転車
+6200,1,2,bike 自転車
+6300,1,2,bike ジャケット
+6400,1,2,bike ジョック
+6500,1,2,bike 電動
+6600,1,2,bike ドラレコ
+6700,1,2,bike ドリンクホルダー
+6800,1,3,bike バスケ スウェット
+6900,1,2,bike バイク
+7000,1,2,bike バスパン
+7100,1,3,bike バスケ tシャツ
+7200,1,2,びbike helmet
+7300,1,2,bike ブーツ
+7400,1,2,bike パーカー
+7500,1,2,bike プラモデル
+7600,1,2,bike stand
+7700,1,2,bike accessories
+7800,1,3,road bike accessories
+7900,1,4,bike stand road bike
+8000,1,4,bike accessories for men
+8100,1,3,bike air pump
+8200,1,3,bike stand indoor
+8300,1,2,bike alarm
+8400,1,3,bike stand vertical
+8500,1,3,bike stand mtb
+8600,1,3,e bike bicycle
+8700,1,2,bike bag
+8800,1,2,bike basket
+8900,1,2,bike box
+9000,1,3,bike basket front
+9100,1,3,bike bag travel
+9200,1,2,bike bell
+9300,1,4,bike basket cover waterproof
+9400,1,3,bike basket cover
+9500,1,3,bike bag airplane
+9600,1,2,bike cover
+9700,1,3,bike cover waterproof
+9800,1,2,bike chain
+9900,1,3,bike cellphone holder
+10000,1,2,bike carrier
+10100,1,2,bike cleaner
+10200,1,3,bike cleaning kit
+10300,1,2,bike computer
+10400,1,3,bike chain cleaner
+10500,1,2,bike camera
+10600,1,2,bike degreaser
+10700,1,3,bike drink holder
+10800,1,2,bike dobravel
+10900,1,3,bike drive recorder
+11000,1,3,bike disc brake
+11100,1,2,bike distance
+11200,1,2,bike die-cast
+11300,1,2,bike dynamo
+11400,1,2,bike doll
+11500,1,3,bike disk lock
+11600,1,2,bike helmet
+11700,1,4,bike helmet for men
+11800,1,4,bike helmet for women
+11900,1,5,mountain bike helmet for men
+12000,1,3,road bike helmet
+12100,1,2,bike electric
+12200,1,4,bike helmet for kids
+12300,1,3,bike helmet adult
+12400,1,6,bike helmet for men bluetooth connection
+12500,1,5,bike helmet for women sale
+12600,1,4,mountain bike for men
+12700,1,4,electric bike for adults
+12800,1,4,folding bike for adult
+12900,1,3,bike for kids
+13000,1,3,bike for men
+13100,1,2,bike frame
+13200,1,5,bike for 2 years old
+13300,1,3,bike for women
+13400,1,6,bike for kids 6 years old
+13500,1,6,bike for kids 3 years old
+13600,1,4,bike gloves for men
+13700,1,2,bike gloves
+13800,1,2,bike grease
+13900,1,2,bike glasses
+14000,1,2,bike giant
+14100,1,2,bike gps
+14200,1,2,bike gear
+14300,1,2,bike grip
+14400,1,3,bike grip handle
+14500,1,2,bike garage
+14600,1,2,bike helmet
+14700,1,4,bike helmet for men
+14800,1,4,bike helmet for women
+14900,1,5,mountain bike helmet for men
+15000,1,3,road bike helmet
+15100,1,2,bike hand
+15200,1,4,bike helmet for kids
+15300,1,3,bike helmet adult
+15400,1,3,bike handle grip
+15500,1,2,bike handlebar
+15600,1,3,bike iphone holder
+15700,1,3,bike inner tube
+15800,1,2,bike intercom
+15900,1,2,bike interior
+16000,1,3,bike in car
+16100,1,3,bike i 14
+16200,1,4,bike interior tire 20x1.50
+16300,1,3,bike ipad holder
+16400,1,2,bike indoor
+16500,1,2,bike iphone
+16600,1,2,bike jacket
+16700,1,3,bike jersey men
+16800,1,2,bike jockstrap
+16900,1,2,bike jersey
+17000,1,2,bike jack
+17100,1,2,bike jeep
+17200,1,2,bike 自転車
+17300,1,3,bike jacket honda
+17400,1,2,bike ジャケット
+17500,1,2,bike japan
+17600,1,2,bike kids
+17700,1,3,bike kids boy
+17800,1,2,bike kickstand
+17900,1,2,bike kit
+18000,1,3,bike kids girl
+18100,1,2,bike カバー
+18200,1,3,bike kids carrier
+18300,1,3,bike key lock
+18400,1,2,bike kodomo
+18500,1,2,bike keychain
+18600,1,2,bike light
+18700,1,2,bike lock
+18800,1,2,bike pump
+18900,1,3,bike light front
+19000,1,3,bike light rechargeable
+19100,1,3,bike pump portable
+19200,1,3,bike light cateye
+19300,1,4,bike lock with key
+19400,1,3,bike pump electric
+19500,1,3,bike led light
+19600,1,2,bike mirror
+19700,1,2,bike motor
+19800,1,2,bike mount
+19900,1,2,bike multitool
+20000,1,2,bike mudguard
+20100,1,3,bike mobile holder
+20200,1,3,bike maintenance stand
+20300,1,2,bike mask
+20400,1,2,bike mountain
+20500,1,2,bike mini
+20600,1,2,bike bag
+20700,1,3,bike bag travel
+20800,1,3,bike bag airplane
+20900,1,3,bike bag train
+21000,1,3,bike bag carrier
+21100,1,2,bike navigation
+21200,1,2,bike bagpack
+21300,1,3,bike bag front
+21400,1,3,bike bag mtb
+21500,1,2,bike navi
+21600,1,2,bike lock
+21700,1,2,bike oil
+21800,1,4,bike lock with key
+21900,1,3,bike lock combination
+22000,1,2,bike locker
+22100,1,3,bike oil chain
+22200,1,3,bike lock chain
+22300,1,3,bike oil spray
+22400,1,2,bike odometer
+22500,1,2,bike outfit
+22600,1,4,バイクパーツセンター bike parts center
+22700,1,3,bike phone holder
+22800,1,2,bike pump
+22900,1,3,bike phone mount
+23000,1,2,bike parts
+23100,1,3,bike pump portable
+23200,1,2,bike pedal
+23300,1,5,bike phone holder for vlogging
+23400,1,2,bike protector
+23500,1,2,bike pants
+23600,1,5,qbicle bike porter for tt
+23700,1,4,harry quinn portable e-bike
+23800,1,5,mtb bike end cap qr
+23900,1,2,bike rack
+24000,1,3,bike rain cover
+24100,1,3,bike rain coat
+24200,1,3,bike repair kit
+24300,1,3,bike repair stand
+24400,1,4,bike rain coat men
+24500,1,2,bike roller
+24600,1,3,bike rack car
+24700,1,2,bike reflector
+24800,1,3,bike rear rack
+24900,1,2,bike stand
+25000,1,2,bike seat
+25100,1,2,bike sticker
+25200,1,3,bike seat cushion
+25300,1,4,bike stand road bike
+25400,1,2,bike saddle
+25500,1,3,bike seat cover
+25600,1,2,bike speedometer
+25700,1,3,bike smartphone holder
+25800,1,3,bike stand indoor
+25900,1,2,bike tire
+26000,1,2,bike tie
+26100,1,3,bike tool kit
+26200,1,2,bike tools
+26300,1,3,bike tools set
+26400,1,3,bike tire pump
+26500,1,2,bike trailer
+26600,1,3,bike tie pro4
+26700,1,2,bike trainer
+26800,1,3,bike tail light
+26900,1,3,bike umbrella holder
+27000,1,2,bike used
+27100,1,2,bike umbrella
+27200,1,2,bike usb
+27300,1,2,bike ウインカー
+27400,1,4,bike u lock holder
+27500,1,2,bike upgrade
+27600,1,2,bike uniform
+27700,1,2,bike united
+27800,1,2,bike underwear
+27900,1,2,bike bell
+28000,1,2,bike valve
+28100,1,3,bike bell kids
+28200,1,4,bike with child seat
+28300,1,3,bike with basket
+28400,1,2,bike wheel
+28500,1,4,bike water bottle holder
+28600,1,3,bike water bottle
+28700,1,3,bike with battery
+28800,1,2,bike wash
+28900,1,3,bike wheel rim
+29000,1,5,bike with child seat kids
+29100,1,3,bike wall mount
+29200,1,2,bike chain
+29300,1,3,bike chain cleaner
+29400,1,3,bike chain lube
+29500,1,3,bike chain lock
+29600,1,3,bike chain tool
+29700,1,3,bike chain fidget
+29800,1,3,bike chain oil
+29900,1,3,bike chain cover
+30000,1,4,bike chain fidget spinner
+30100,1,3,bike chain grease
+30200,1,3,bike yoke dropper
+30300,1,2,bike yoke
+30400,1,2,bike yamaha
+30500,1,2,bike zac
+30600,1,3,bike zac 2.0
+30700,1,2,bike 自転車
+30800,1,2,bike ジャケット
+30900,1,2,bike ジョック
+31000,1,4,altage acr-001 cross bike
+31100,1,1,bike-009
+31200,1,2,e-bike fat-01
+31300,1,3,bike 16 inch
+31400,1,2,bike 150cm
+31500,1,3,bike 18 inch
+31600,1,2,bike 125cc
+31700,1,4,bike 16 inch foldable
+31800,1,2,bike 14
+31900,1,4,bike 10 years old
+32000,1,2,bike 1歳
+32100,1,2,bike 10000
+32200,1,4,mountain bike 29 inch
+32300,1,4,bike 24 inch アシスト
+32400,1,3,bike 20 inch
+32500,1,3,bike 26 inch
+32600,1,2,bike 27インチ
+32700,1,4,bike 20 inch kids
+32800,1,2,bike 26
+32900,1,3,bike 29 inch
+33000,1,2,bike 27.5
+33100,1,4,bike 2 years old
+33200,1,4,bike 3 wheels adult
+33300,1,3,bike 3 wheels
+33400,1,2,a-bike 484
+33500,1,3,mobi bike 48v
+33600,1,6,bike for kids 4 years old
+33700,1,2,bike 50cc
+33800,1,3,bike 50cc used
+33900,1,3,bike 50 cc
+34000,1,3,bike 6 speed
+34100,1,4,bike 7 years old
+34200,1,6,bike for kids 8 years old
+34300,1,4,bike tire 27x1 3/8
+34400,1,4,bike tire 26x1 3/8
+34500,1,4,bike for girls 9-12
+34600,1,8,バイクパーツセンター bike parts center バイクタイヤ スクーター用 90/90-14 台湾製タイヤ
+34700,1,5,バイクパーツセンター bike parts center 90/90-10
